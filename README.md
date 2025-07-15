@@ -33,7 +33,7 @@ Show-Introduction
 
 ```
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Softwares and Technologies
 
 <img 
     align="left" 
@@ -111,7 +111,7 @@ Show-Introduction
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
