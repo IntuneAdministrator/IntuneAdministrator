@@ -33,7 +33,7 @@ Show-Introduction
 
 ```
 
-### 🤖 Scripting Language and Technologies
+### 🤖 Scripting Languages & Technologies
 
 <img 
     align="left" 
