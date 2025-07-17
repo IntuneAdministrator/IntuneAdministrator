@@ -37,8 +37,8 @@ Show-Introduction
 
 <img 
     align="left" 
-    alt="Powershell"
-    title="Powershell" 
+    alt="PowerShell"
+    title="PowerShell" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
@@ -53,8 +53,8 @@ Show-Introduction
 />
 <img 
     align="left" 
-    alt="VisualStudio" 
-    title="VisualStudio"
+    alt="Visual Studio" 
+    title="Visual Studio"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/visual-studio-code.svg" 
@@ -77,32 +77,32 @@ Show-Introduction
 />
 <img 
     align="left" 
-    alt="Microsoft365"
-    title="Microsoft365" 
+    alt="Microsoft 365"
+    title="Microsoft 365" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-365.svg" 
 />
 <img 
     align="left" 
-    alt="MicrosoftAdmin"
-    title="MicrosoftAdmin" 
+    alt="Microsoft Admin"
+    title="Microsoft Admin" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-365-admin-center.svg" 
 />
 <img 
     align="left" 
-    alt="MicrosoftExchange" 
-    title="MicrosoftExchange"
+    alt="Microsoft Exchange" 
+    title="Microsoft Exchange"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-exchange.svg" 
 />
 <img 
     align="left" 
-    alt="MicrosoftDefender" 
-    title="MicrosoftDefender"
+    alt="Microsoft Defender" 
+    title="Microsoft Defender"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-defender.svg" 
