@@ -1,1 +1,0 @@
-This PowerShell script provides a Windows Forms GUI to check for, download, and install pending Windows updates. It dynamically updates the interface during search, download, and installation phases using the Windows Update COM API. Upon completion, it shows a notification that auto-closes after 5 seconds. The script includes error handling and ensures proper UI closure.
