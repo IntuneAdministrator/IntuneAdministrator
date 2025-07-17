@@ -1,1 +1,0 @@
-This PowerShell script retrieves the most recent Blue Screen (BSOD) error event (Event ID 1001) from the Windows System event log, formats the details, and displays a user-friendly report in a message box. If no BSOD events are found, it notifies the user accordingly. The script includes error handling to show any issues encountered during execution.
