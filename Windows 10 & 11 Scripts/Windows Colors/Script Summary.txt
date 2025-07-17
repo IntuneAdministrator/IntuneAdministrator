@@ -1,0 +1,1 @@
+This PowerShell script prompts the user with a Yes/No dialog asking if they want to open the Windows 11 Colors personalization settings page. If the user agrees, it launches the Colors settings via the ms-settings: URI. If the user declines, the script exits without further action.

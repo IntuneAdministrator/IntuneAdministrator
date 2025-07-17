@@ -1,0 +1,1 @@
+This PowerShell script prompts the user with a Yes/No dialog to open the Windows 11 Default Audio Output settings page. If the user agrees, it opens the Default Audio Output settings via the ms-settings: URI. If the user declines, the script exits quietly without further action.

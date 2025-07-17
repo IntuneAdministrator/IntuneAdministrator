@@ -1,0 +1,1 @@
+This PowerShell script prompts the user with a Yes/No dialog to open the Windows 11 Default Apps settings page. If the user selects Yes, it opens the Default Apps settings using the corresponding ms-settings: URI. If No, the script exits quietly without further action.
