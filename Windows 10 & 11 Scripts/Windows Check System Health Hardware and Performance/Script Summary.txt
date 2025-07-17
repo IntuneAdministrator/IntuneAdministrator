@@ -1,0 +1,4 @@
+This PowerShell script performs a system health check by gathering CPU load, memory usage, 
+and disk space utilization for all local drives. It logs these metrics with timestamps 
+to a persistent log file at C:\ProgramData\OzarkTechTeam\SystemHealth_log.txt for 
+auditing purposes. Upon completion, it notifies the user via a Windows Forms message box to review the log file.
