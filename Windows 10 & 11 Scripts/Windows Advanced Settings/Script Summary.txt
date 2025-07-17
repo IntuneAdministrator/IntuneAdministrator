@@ -1,0 +1,17 @@
+This PowerShell script prompts the user with a Windows Forms message box asking whether 
+they want to open the Advanced Network Settings page on Windows 11 24H2. If the user 
+chooses Yes, the script launches the settings page and logs this action in the Windows 
+Application event log for auditing purposes.
+
+User Interaction: Utilizes a Yes/No message box to confirm the user’s intent before opening the settings.
+
+Settings Launch: Opens the advanced network settings page using the ms-settings:network-advancedsettings URI.
+
+Event Logging: Creates the event log source if it does not exist and writes an 
+informational log entry upon opening the page.
+
+Error Handling: Implements try/catch to gracefully handle any unexpected errors and 
+notify the user via a message box.
+
+Designed For: Windows 11 24H2 environments, following senior IT professional best 
+practices with clear code documentation and maintainability in mind.
