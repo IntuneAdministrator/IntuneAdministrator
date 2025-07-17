@@ -1,4 +1,4 @@
-👋 Hey there! I’m [Allester Padovani](https://www.linkedin.com/in/allester-padovani/), your friendly neighborhood Intune & Microsoft 365 wrangler.
+### 👨‍💻 Hey there! I’m [Allester Padovani](https://www.linkedin.com/in/allester-padovani/), your friendly neighborhood Intune & Microsoft 365 wrangler.
 
 ```powershell
 # Introduction Script for GitHub Profile
