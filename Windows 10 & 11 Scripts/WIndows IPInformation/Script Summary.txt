@@ -1,1 +1,0 @@
-This script retrieves all active physical network adapters on the system along with their main IPv4 addresses (excluding link-local addresses). It then presents this detailed network adapter information—including name, status, MAC address, speed, description, and primary IPv4 address—in a Windows Forms message box for easy viewing.
