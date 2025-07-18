@@ -1,0 +1,1 @@
+This PowerShell script assists in detecting and repairing potential corruption in the currently logged-in user's Windows profile. It attempts to load and repair the user’s registry hive (NTUSER.DAT), logs detailed information about user profiles on the system, and optionally creates a temporary new local user account if profile repair is unsuccessful.

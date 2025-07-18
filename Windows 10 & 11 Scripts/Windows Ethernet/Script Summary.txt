@@ -1,0 +1,1 @@
+This PowerShell script creates a graphical Windows Forms dialog that prompts the user to choose between opening the Ethernet or Wi-Fi settings pages on Windows 11 24H2. It also provides a Cancel option to exit without action.
