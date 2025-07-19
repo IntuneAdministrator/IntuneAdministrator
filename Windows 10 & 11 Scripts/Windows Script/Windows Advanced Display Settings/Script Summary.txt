@@ -1,0 +1,15 @@
+This PowerShell script is designed for Windows 11 24H2 systems to check if the device 
+supports Advanced Display Settings by querying video controller information. 
+If supported, it prompts the user via a Windows Forms message box to confirm whether 
+they want to open the Advanced Display Settings page in the Windows Settings app.
+
+User Confirmation: The script uses a Yes/No message box to get user consent before launching the settings page.
+
+Action Logging: If the user chooses to open the page, the script logs this action 
+to the Windows Application event log for auditing purposes, creating the event source if it does not already exist.
+
+Graceful Handling: If advanced display settings are not supported, or if an error 
+occurs, informative message boxes notify the user accordingly.
+
+Best Practices: The script leverages modern CIM cmdlets, detailed comments, and proper 
+error handling to ensure reliability and maintainability by senior IT professionals.

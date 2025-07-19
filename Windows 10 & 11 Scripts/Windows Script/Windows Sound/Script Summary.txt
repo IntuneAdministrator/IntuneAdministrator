@@ -1,0 +1,7 @@
+This PowerShell script prompts the user with a graphical Yes/No dialog asking if 
+they want to open the Sound settings page on Windows 11 24H2. If the user confirms, 
+it launches the settings page (ms-settings:sound) and attempts to log the action to 
+the Application event log. If the user declines, the script exits without making changes.
+
+The script uses Windows Forms for user interaction and includes error handling for 
+event log writing failures.

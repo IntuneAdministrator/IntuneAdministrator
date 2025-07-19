@@ -1,0 +1,3 @@
+This PowerShell script prompts the user with a Yes/No dialog to open the Windows 11 
+Connected Devices settings page. If the user selects Yes, it opens the settings via 
+the appropriate ms-settings: URI. If No, the script exits silently.

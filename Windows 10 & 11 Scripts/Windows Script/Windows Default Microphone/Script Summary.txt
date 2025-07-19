@@ -1,0 +1,4 @@
+This PowerShell script prompts the user with a Yes/No dialog to open the Windows 11 
+Default Microphone settings page. If the user selects Yes, it launches the Default 
+Microphone settings using the ms-settings: URI. If the user selects No, the script 
+exits silently without further action.
