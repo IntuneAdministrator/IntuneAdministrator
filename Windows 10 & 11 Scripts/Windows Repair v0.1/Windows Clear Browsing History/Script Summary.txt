@@ -1,0 +1,6 @@
+This PowerShell script clears browsing history, cookies, session data, and other cached 
+information for Microsoft Edge (Default profile) and Internet Explorer. It deletes key 
+data files and folders from Edge’s user data directory and invokes Internet Explorer’s 
+built-in cleanup routines via InetCpl.cpl. Additionally, it configures Internet Explorer 
+to automatically clear browsing history on exit by modifying the registry. 
+After completing the cleanup, the script displays a Windows Forms message box confirming the successful operation.

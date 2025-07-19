@@ -1,0 +1,1 @@
+This script clears all non-critical Windows event logs—excluding the essential System, Application, and Security logs—to help free disk space. It logs the cleanup activities with timestamps to a file for auditing purposes and notifies the user with a message box once the cleanup is complete. Administrator privileges are required to run this script.

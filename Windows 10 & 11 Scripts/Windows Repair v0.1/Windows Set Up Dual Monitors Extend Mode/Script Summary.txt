@@ -1,0 +1,15 @@
+This PowerShell script facilitates configuring a dual monitor setup on Windows 11 24H2 by 
+extending the desktop across connected monitors. It first prompts the user with a 
+confirmation dialog. Upon user consent, it checks the number of connected monitors 
+via WMI and verifies that at least two monitors are connected.
+
+If two or more monitors are detected, the script runs the built-in DisplaySwitch.exe 
+utility with the /extend argument to extend the desktop across all connected displays. 
+After applying the configuration, it notifies the user of success and advises adjusting 
+resolution or primary monitor settings manually if needed.
+
+If fewer than two monitors are connected or an error occurs, the script provides an 
+appropriate message box warning or error notification. If the user declines to proceed, 
+the script exits without making any changes.
+
+The script uses Windows Forms for user dialogs and requires permission to query WMI and launch system utilities.

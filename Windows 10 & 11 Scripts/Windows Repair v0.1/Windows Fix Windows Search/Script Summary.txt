@@ -1,0 +1,1 @@
+This PowerShell script fully resets the Windows Search service by disabling and stopping it, clearing its search index database, resetting its registry setup flag, and then re-enabling and restarting the service with delayed auto start. It ensures the service starts successfully using a retry loop and notifies the user upon completion.

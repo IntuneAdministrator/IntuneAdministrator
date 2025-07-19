@@ -1,0 +1,9 @@
+This PowerShell script detects all connected webcam devices on Windows 10 and 11 
+(including 22H2 and 24H2 versions) by querying device classes "Camera" and "Image," 
+excluding multifunction printers and scanners. It performs a soft restart on each 
+webcam by disabling and re-enabling the device using PowerShell cmdlets. The script 
+requires administrator privileges to run and provides user feedback through Windows 
+Forms message boxes, including notifications if no webcams are found or if errors 
+occur during the restart process.
+
+This approach helps resolve common webcam issues without requiring a full system reboot.

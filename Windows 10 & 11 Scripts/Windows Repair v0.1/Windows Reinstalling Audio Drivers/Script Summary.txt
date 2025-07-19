@@ -1,0 +1,3 @@
+This script automatically uninstalls all currently active audio devices 
+(e.g., speakers, sound cards, virtual audio drivers) and initiates a driver 
+reinstallation by triggering a system-wide device rescan.

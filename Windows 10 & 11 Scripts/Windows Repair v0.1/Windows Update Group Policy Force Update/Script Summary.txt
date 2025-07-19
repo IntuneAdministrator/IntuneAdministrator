@@ -1,0 +1,4 @@
+This PowerShell script automates the execution of the gpupdate /force command to immediately 
+update Group Policy settings on a Windows machine. It enhances the user experience by 
+presenting a graphical user interface (GUI) with a progress bar and status updates, 
+while also logging the output for later reference.

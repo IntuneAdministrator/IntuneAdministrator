@@ -1,0 +1,3 @@
+This script identifies and attempts to uninstall all connected webcam devices 
+(excluding multifunction printers or scanners). It provides user confirmation, 
+progress feedback, and error handling via message boxes using Windows Forms.

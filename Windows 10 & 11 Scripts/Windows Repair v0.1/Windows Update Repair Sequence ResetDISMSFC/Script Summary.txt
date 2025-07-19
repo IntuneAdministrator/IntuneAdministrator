@@ -1,0 +1,3 @@
+This PowerShell script is designed to automate the repair of Windows Update components 
+on Windows 11 (24H2). It leverages a graphical user interface (GUI) for real-time 
+feedback and logs all actions for transparency and troubleshooting.

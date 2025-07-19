@@ -1,0 +1,8 @@
+This PowerShell script resets the current user’s camera privacy settings on Windows 11 
+(version 24H2 and later) by modifying registry entries that control app access to the webcam. 
+It accesses the user's registry hive (HKCU) to locate all app-specific webcam permission 
+keys and sets their access values to "Allow", thereby enabling app access to the camera.
+
+The script provides user feedback through Windows Forms message boxes, informing whether 
+the operation succeeded, if no camera settings were found, or if an error occurred during execution. 
+It requires to be run in the user context and does not override system-wide or Group Policy restrictions.

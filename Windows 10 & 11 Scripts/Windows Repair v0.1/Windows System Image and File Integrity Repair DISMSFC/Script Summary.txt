@@ -1,0 +1,6 @@
+This script repairs Windows system files and fixes corruption issues by running DISM 
+and System File Checker (SFC) commands. It shows a responsive Windows Form with a 
+progress bar and status updates throughout the process, which may take up to 30 minutes. 
+Each step of DISM and SFC operations is logged to separate log files. Upon completion of 
+DISM and SFC scans, the script displays message boxes to inform the user of success. 
+The script requires administrative privileges and is tested on Windows 10 and 11.

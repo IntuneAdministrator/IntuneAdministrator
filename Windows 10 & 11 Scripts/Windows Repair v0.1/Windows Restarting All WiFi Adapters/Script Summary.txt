@@ -1,0 +1,8 @@
+This PowerShell script restarts enabled Wi-Fi and Ethernet network adapters on 
+Windows 11 (tested on 24H2). It identifies adapters by name that are currently 
+active ("Up" or "Connected"), disables each one, then re-enables it to refresh 
+network connectivity. This helps resolve common network issues without requiring 
+a full system reboot.
+
+The script requires Administrator privileges to run and provides user feedback via
+Windows Forms message boxes indicating success or if no applicable adapters were found.

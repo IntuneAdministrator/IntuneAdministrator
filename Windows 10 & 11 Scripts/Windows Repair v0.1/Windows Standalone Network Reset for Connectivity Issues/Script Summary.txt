@@ -1,0 +1,4 @@
+Resets network settings to fix common connectivity issues by releasing and renewing 
+the IP address, flushing the DNS cache, resetting Winsock, and resetting the TCP/IP 
+stack. Shows a progress bar UI with status updates, logs each step to a file, and 
+displays a completion message. Requires administrative privileges and is tested on Windows 10/11.

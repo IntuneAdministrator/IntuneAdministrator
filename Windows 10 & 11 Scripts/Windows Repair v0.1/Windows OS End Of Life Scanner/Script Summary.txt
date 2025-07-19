@@ -1,0 +1,6 @@
+This PowerShell script retrieves detailed information about the current Windows operating system, 
+including its version, build number, and installation date. It compares the OS version against 
+a predefined list of official Microsoft End-of-Life (EOL) support dates. The script calculates 
+how many days remain until the OS reaches its end of support and displays this information in 
+a graphical MessageBox. It also provides recommendations if the OS is nearing or has passed 
+its support deadline, helping users stay informed about their system's lifecycle status.
