@@ -1,0 +1,3 @@
+This PowerShell script creates a WPF GUI for accessing Network & Internet settings on 
+Windows 11. It uses a two-column layout, where each column contains buttons that, when 
+clicked, open a specific network-related settings URI.

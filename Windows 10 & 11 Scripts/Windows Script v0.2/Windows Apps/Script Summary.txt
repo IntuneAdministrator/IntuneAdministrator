@@ -1,0 +1,5 @@
+This PowerShell script creates a WPF-based GUI for quickly accessing Windows 11 Apps & Features 
+settings using two columns of buttons. The interface is designed to allow users to launch various 
+settings pages such as Apps & Features, Startup Apps, Offline Maps, and more, with a simple 
+and consistent layout. Each button opens the relevant settings page when clicked, while also 
+logging the action to the event log.

@@ -1,0 +1,4 @@
+This PowerShell script creates a WPF-based GUI with a two-column layout, offering easy 
+access to various Windows 11 Ease of Access settings via buttons. Each button launches a 
+different Ease of Access settings page using specific ms-settings URIs, making it simple 
+for users to navigate and customize accessibility features in Windows 11.
