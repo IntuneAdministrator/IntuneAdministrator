@@ -1,4 +1,0 @@
-This script restarts the AudioEndpointBuilder (WASAPI) service on Windows using a 
-user-friendly progress bar UI and message box notifications. It is designed for 
-scenarios where restarting the Windows audio endpoint builder resolves audio issues 
-without rebooting the system.
