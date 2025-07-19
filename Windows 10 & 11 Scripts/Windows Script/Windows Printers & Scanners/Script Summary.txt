@@ -1,3 +1,0 @@
-This PowerShell script prompts the user to confirm whether they want to open the
-Windows 11 'Printers & Scanners' settings page. If confirmed, it launches the settings 
-and logs the action to the Windows Event Log for audit purposes.

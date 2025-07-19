@@ -1,3 +1,0 @@
-This PowerShell script prompts the user for confirmation to open the Windows 11 'Recovery' 
-settings page. If approved, it launches the page using the ms-settings URI and logs 
-the action to the Windows Event Log for audit tracking.

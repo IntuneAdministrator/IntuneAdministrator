@@ -1,6 +1,0 @@
-This PowerShell script detects if the device has a battery by querying the Win32_Battery class. 
-If a battery is present, it prompts the user with a Yes/No dialog to open the detailed 
-Battery Saver settings page. Upon user confirmation, it launches the settings page and 
-logs the action in the Application event log. If no battery is detected, the user is 
-informed via a message box. The script ensures the event log source exists before 
-logging and handles errors gracefully, logging any issues when possible.

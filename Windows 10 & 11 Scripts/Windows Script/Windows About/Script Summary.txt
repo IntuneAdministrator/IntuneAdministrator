@@ -1,4 +1,0 @@
-This PowerShell script collects and displays key system information—such as device name, 
-processor, RAM, device ID, product ID, system type, storage, and graphics card—on a 
-Windows 11 (24H2 or newer) machine. It presents the data in both the console and a Windows 
-message box, making it ideal for quick audits, diagnostics, or IT inventory tasks.

@@ -1,3 +1,0 @@
-This PowerShell script prompts the user for confirmation to open the Volume Mixer 
-settings page in Windows 11 (24H2). Upon approval, it opens the settings page and 
-logs the event to the Windows Application log.
