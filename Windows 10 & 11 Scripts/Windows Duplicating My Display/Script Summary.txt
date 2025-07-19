@@ -1,1 +1,0 @@
-This script prompts the user with a Yes/No message box asking whether they would like to open the Display settings page in Windows 11 24H2. If the user clicks Yes, it opens the settings page using a URI. If No, the script exits without making changes.

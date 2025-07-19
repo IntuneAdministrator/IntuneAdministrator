@@ -1,5 +1,0 @@
-This PowerShell script safely removes temporary files from user-specific and system-wide 
-temp folders, clears the Windows prefetch data, and empties the Recycle Bin. It includes 
-error handling to gracefully manage any issues during file removal. Upon completion, 
-it notifies the user with a Windows Forms message box confirming successful cleanup. 
-The script requires Administrator privileges for full access to all system locations.
