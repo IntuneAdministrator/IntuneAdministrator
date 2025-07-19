@@ -1,0 +1,9 @@
+This PowerShell script prompts the user to confirm whether they want to open the Windows 
+Security settings page on Windows 11 24H2. If the user selects Yes, it launches the Windows 
+Security settings via the ms-settings:windowsdefender URI and attempts to log the action 
+to the Windows Application event log under the source "Windows Security Settings". 
+If logging fails, a warning is displayed in the console.
+
+If the user selects No, the script simply exits without opening the settings page, writing a message to the console.
+
+The script leverages Windows Forms for the user dialog and requires permission to start processes and write to event logs.

@@ -1,0 +1,5 @@
+This PowerShell script prompts the user with a Yes/No dialog to confirm if they want to 
+open the Windows 11 24H2 "Themes" settings page. If the user agrees, it launches the 
+Themes settings and attempts to log this action to the Application event log. If the 
+user declines, the script exits without performing any action. The script requires 
+permissions to use Windows Forms for the dialog and to write to the event log.
