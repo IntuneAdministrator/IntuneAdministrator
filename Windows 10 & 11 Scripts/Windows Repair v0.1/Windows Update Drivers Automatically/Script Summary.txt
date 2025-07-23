@@ -1,5 +1,0 @@
-Requires administrator privileges and internet connection.
-Loads (or installs) the PSWindowsUpdate module.
-Retrieves available updates and prompts user for confirmation before installation.
-Displays a progress bar and status messages during installation.
-Provides completion or error notifications via message boxes.

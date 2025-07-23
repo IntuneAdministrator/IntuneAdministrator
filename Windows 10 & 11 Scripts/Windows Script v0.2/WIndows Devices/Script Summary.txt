@@ -1,4 +1,0 @@
-This PowerShell script creates a WPF-based GUI for accessing various Windows 11 Device and 
-Input settings. It has a two-column layout of buttons, each mapped to specific settings URIs, 
-such as Bluetooth, Mouse & Touchpad, Printers & Scanners, and more. The window is designed for 
-ease of use, offering quick access to commonly used device and input settings in Windows 11.

@@ -1,5 +1,0 @@
-This PowerShell script retrieves the most recent system boot time by querying the Windows 
-System event log for Event ID 6005 ("Event Log service started"). It calculates the 
-system uptime by comparing the boot time to the current time and formats this information 
-into a readable string. The uptime details—including boot time, current time, and 
-duration—are displayed to the user in a Windows Forms message box.

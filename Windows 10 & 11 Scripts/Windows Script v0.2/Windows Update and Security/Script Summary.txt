@@ -1,5 +1,0 @@
-This script you have here is for creating an interactive WPF GUI using PowerShell, which 
-provides a central dashboard for managing various Windows maintenance and update settings. 
-It helps users quickly access different system settings related to Windows 11's activation, 
-updates, backup, recovery, and more, all from a single interface. Additionally, the script 
-logs each action to the Windows Event Log for tracking purposes.

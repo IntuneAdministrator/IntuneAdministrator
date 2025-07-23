@@ -1,7 +1,0 @@
-This PowerShell script checks for a list of known applications that commonly use or 
-lock the webcam (such as Skype, Zoom, Teams, Discord, OBS, ManyCam, and CyberLink). 
-If any of these applications are currently running, it alerts the user with a warning 
-message box listing the conflicting apps and prompts them to close these programs 
-before using the webcam. If no conflicts are detected, it informs the user that no 
-conflicting applications are running. The script uses Windows Forms message boxes 
-for clear user notifications and is intended to be run before webcam-dependent tasks.

@@ -1,3 +1,0 @@
-This PowerShell script is designed to identify and alert users about potentially conflicting audio software that may interfere with system-level audio functionality or other audio applications. It checks currently running processes against a predefined list of known conflict-prone applications (such as Voicemeeter, Nahimic, RealtekAudioConsole, Dolby, etc.).
-
-Upon detection, the script uses Windows Forms to notify the user of any active conflicts via a warning message box. If no conflicts are found, it displays an informational message confirming that the system is clear. This tool is especially useful when preparing a device for audio troubleshooting, configuration, or optimization.

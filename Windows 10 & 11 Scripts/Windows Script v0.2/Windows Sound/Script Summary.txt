@@ -1,4 +1,0 @@
-This PowerShell script creates a Sound Settings Dashboard with a WPF GUI for Windows 11 24H2. 
-The dashboard features individual buttons for different sound settings such as Volume Mixer, 
-Sound, Sound Devices, Default Microphone, and Default Audio Output. Each button opens its 
-respective ms-settings URI and logs the action to the Windows Event Log.

@@ -1,1 +1,0 @@
-This PowerShell script retrieves detailed BIOS information from the system using the Win32_BIOS CIM class and presents it in a clear Windows Forms message box. The displayed data includes serial number, manufacturer, BIOS version, release date, and other diagnostic details.

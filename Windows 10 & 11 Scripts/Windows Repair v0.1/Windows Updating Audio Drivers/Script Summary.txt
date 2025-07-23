@@ -1,3 +1,0 @@
-This PowerShell script automatically updates drivers for all connected audio/media devices 
-using pnputil. It provides a modern Windows Forms UI with a real-time progress bar, 
-percentage tracking, and status updates for enhanced user experience.

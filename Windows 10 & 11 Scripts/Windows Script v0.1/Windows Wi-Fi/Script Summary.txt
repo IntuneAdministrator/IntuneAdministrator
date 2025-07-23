@@ -1,2 +1,0 @@
-Prompts the user for confirmation to open the Wi-Fi settings page (ms-settings:network-wifi)
-on Windows 11 24H2. If confirmed, it opens the settings and writes a log to the Application event log.

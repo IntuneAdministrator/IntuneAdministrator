@@ -1,3 +1,0 @@
-This PowerShell script asks the user for permission to open the Windows 11 Personalization 
-settings page. If approved, it opens the page and logs the action to the Windows 
-Event Log for auditing purposes.

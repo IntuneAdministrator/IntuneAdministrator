@@ -1,9 +1,0 @@
-This PowerShell script safely restarts the essential Windows audio services
-AudioEndpointBuilder and Audiosrv — to help resolve common audio problems on 
-Windows 11 (tested on 24H2). It requires administrative privileges to run and 
-uses Windows Forms message boxes to communicate status to the user.
-
-The script checks for admin rights, attempts to restart each service with error 
-handling, pauses briefly between restarts, and provides clear notifications of 
-success or failure. This method offers a quick fix for many audio issues without 
-needing a full system reboot.

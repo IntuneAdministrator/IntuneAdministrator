@@ -1,7 +1,0 @@
-This PowerShell script soft-resets all enabled audio devices on Windows 11 (version 24H2 and later) 
-by disabling and then re-enabling each device classified under the "Media" device class. 
-The process helps resolve common audio issues without fully uninstalling or reinstalling drivers.
-
-The script requires administrator privileges and uses Windows Forms message boxes to provide 
-clear user feedback, including notifications if no enabled audio devices are found or after 
-the reset completes. Errors during the reset of individual devices are logged as warnings but do not halt the script.

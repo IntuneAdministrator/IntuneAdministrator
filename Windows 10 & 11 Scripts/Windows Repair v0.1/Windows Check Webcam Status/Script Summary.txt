@@ -1,5 +1,0 @@
-This PowerShell script queries the system for connected webcam devices by filtering 
-imaging devices classified as cameras while excluding multifunction printers and scanners. 
-If webcams are detected, it displays their names, statuses, and device IDs in a Windows 
-Forms message box. If no webcams are found, the script notifies the user accordingly. 
-The script also includes error handling that shows any encountered issues via a message box.

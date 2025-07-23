@@ -1,8 +1,0 @@
-This PowerShell script prompts the user with a Yes/No dialog asking if they want 
-to open the Screen Rotation settings page in Windows 11 24H2. If the user selects 
-Yes, it launches the corresponding settings page via the ms-settings: URI scheme.
-
-Regardless of the choice, the script logs the user’s response in the Windows 
-Application event log under the source "Screen Rotation Settings" for auditing purposes.
-
-The script uses Windows Forms for the dialog UI and requires permission to start processes and write to event logs.

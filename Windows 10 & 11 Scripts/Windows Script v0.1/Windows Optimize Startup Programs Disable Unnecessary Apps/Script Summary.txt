@@ -1,6 +1,0 @@
-This interactive PowerShell script lists all current user startup programs configured 
-in the registry. For each startup item, it prompts the user with a Yes/No dialog asking 
-if they want to disable that program from running at login. If the user chooses Yes, 
-the script disables the startup entry by clearing its registry value. After processing 
-all entries, it displays a summary message showing which programs were disabled or 
-if none were changed. The script runs under the current user context and uses Windows Forms for user interaction.

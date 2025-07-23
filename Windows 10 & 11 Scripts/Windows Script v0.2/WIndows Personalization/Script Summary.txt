@@ -1,3 +1,0 @@
-This PowerShell script creates a WPF GUI for accessing Windows 11 Personalization settings 
-through a clean, two-column interface. Each button in the columns opens a specific 
-Personalization-related settings URI, helping users quickly navigate to the settings they need.

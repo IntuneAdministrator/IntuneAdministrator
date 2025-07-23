@@ -1,5 +1,0 @@
-This PowerShell script prompts the user with a Yes/No dialog to confirm opening the 
-Bluetooth settings page on Windows 11 24H2. If the user confirms, it launches the 
-Bluetooth settings page and logs the action as an informational entry in the 
-Application event log. The script handles creation of the event log source if 
-needed and displays error messages in case of failure.

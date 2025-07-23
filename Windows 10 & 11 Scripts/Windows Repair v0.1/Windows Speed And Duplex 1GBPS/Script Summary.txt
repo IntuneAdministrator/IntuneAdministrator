@@ -1,2 +1,0 @@
-This script configures the "Speed & Duplex" setting to "1 Gbps Full Duplex" on all 
-physical network adapters in a Windows system.

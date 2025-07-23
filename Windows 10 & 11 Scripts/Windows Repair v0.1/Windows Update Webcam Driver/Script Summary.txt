@@ -1,2 +1,0 @@
-This script scans for enabled webcam devices and updates their drivers using 
-pnputil, providing a modern Windows Forms GUI for real-time progress feedback.

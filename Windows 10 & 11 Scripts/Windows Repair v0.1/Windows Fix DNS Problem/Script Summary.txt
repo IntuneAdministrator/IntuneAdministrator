@@ -1,1 +1,0 @@
-This PowerShell script resets the DNS server settings on all enabled network adapters by clearing any existing DNS configuration and setting Google's Public DNS servers (8.8.8.8 and 8.8.4.4). It provides a user-friendly progress bar interface during the process and prompts the user to restart the system upon completion to apply changes.

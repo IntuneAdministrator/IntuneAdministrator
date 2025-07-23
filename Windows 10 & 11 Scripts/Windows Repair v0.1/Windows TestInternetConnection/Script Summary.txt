@@ -1,6 +1,0 @@
-This PowerShell script tests internet connectivity by pinging a reliable host (google.com) 
-10 times, then analyzes the results including packets sent, received, lost, and average 
-latency. It displays a responsive Windows Form with a progress bar and status updates 
-during the test. If the average latency exceeds 40 milliseconds, it warns the user that 
-the internet connection is "super slow." Otherwise, it shows detailed ping statistics 
-in a message box. The script also handles errors gracefully, informing the user if the host is unreachable.

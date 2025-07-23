@@ -1,1 +1,0 @@
-This PowerShell script is designed to prompt users with a Yes/No message box asking whether they want to open the Display settings page in Windows 11 24H2. If the user confirms, the script launches the settings page using the built-in URI handler.

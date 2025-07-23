@@ -1,5 +1,0 @@
-The PowerShell script creates a Windows 11 Work & Account Settings Launcher GUI using 
-Windows Presentation Foundation (WPF). It provides a graphical interface with fixed-width 
-buttons for quickly accessing various system settings related to work, accounts, and 
-personalization in Windows 11 (version 24H2). The interface is organized into a two-column 
-layout, with each button opening a specific ms-settings page when clicked.
