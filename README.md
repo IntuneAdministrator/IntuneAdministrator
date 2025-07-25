@@ -15,7 +15,7 @@ function Show-Introduction {
     - Simplifying Microsoft 365 deployments because complexity is overrated ☁️✨  
     - Writing scripts that automate headaches away, one line at a time 🧾⚡  
 
-    Fun Fact: I've probably fixed more printers than I've had cups of coffee. And I drink a *lot* of coffee. ☕😄  
+    Fun Fact: I've probably fixed more printers than I've had cups of coffee. ☕😄  
 
     Motto: "If it works smoothly, nobody notices. If it breaks, I fix it faster than you can reboot."  
 
