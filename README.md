@@ -35,7 +35,7 @@ Show-Introduction
 
 ### 🤖 Scripting Languages & Technologies
 
-<p align="left" style="display:flex; flex-wrap:wrap; gap:15px;">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:25px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" title="PowerShell" width="40"/>
   <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/terminal.svg" alt="Terminal" title="Terminal" width="40"/>
   <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40"/>
