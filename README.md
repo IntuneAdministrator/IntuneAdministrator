@@ -35,81 +35,20 @@ Show-Introduction
 
 ### 🤖 Scripting Languages & Technologies
 
-<img 
-    align="left" 
-    alt="PowerShell"
-    title="PowerShell" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Terminal" 
-    title="Terminal"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/terminal.svg" 
-/>
-<img 
-    align="left" 
-    alt="Visual Studio" 
-    title="Visual Studio"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/visual-studio-code.svg" 
-/>
-<img 
-    align="left" 
-    alt="Intune" 
-    title="Intune"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-intune.svg" 
-/>
-<img 
-    align="left" 
-    alt="Azure"
-    title="Azure" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-azure.svg" 
-/>
-<img 
-    align="left" 
-    alt="Microsoft 365"
-    title="Microsoft 365" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-365.svg" 
-/>
-<img 
-    align="left" 
-    alt="Microsoft Admin"
-    title="Microsoft Admin" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-365-admin-center.svg" 
-/>
-<img 
-    align="left" 
-    alt="Microsoft Exchange" 
-    title="Microsoft Exchange"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-exchange.svg" 
-/>
-<img 
-    align="left" 
-    alt="Microsoft Defender" 
-    title="Microsoft Defender"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/microsoft-defender.svg" 
-/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" title="PowerShell" width="40" style="padding-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/terminal.svg" alt="Terminal" title="Terminal" width="40" style="padding-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40" style="padding-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg" alt="Intune" title="Intune" width="40" style="padding-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg" alt="Azure" title="Azure" width="40" style="padding-right:10px;"/>
+</p>
 
-<br/>
-<br/>
+<p>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" width="40" style="padding-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365-admin-center.svg" alt="Microsoft Admin" title="Microsoft Admin" width="40" style="padding-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg" alt="Microsoft Exchange" title="Microsoft Exchange" width="40" style="padding-right:10px;"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-defender.svg" alt="Microsoft Defender" title="Microsoft Defender" width="40" style="padding-right:10px;"/>
+</p>
 
 ### 📊 Statistics
 
