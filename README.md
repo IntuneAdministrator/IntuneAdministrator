@@ -119,7 +119,7 @@ Show-Introduction
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=IntuneAdministrator&show_icons=true&theme=dark&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=IntuneAdministrator&show_icons=true&theme=dark" 
   />
 
 <img 
