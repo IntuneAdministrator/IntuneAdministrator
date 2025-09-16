@@ -35,19 +35,16 @@ Show-Introduction
 
 ### 🤖 Scripting Languages & Technologies
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" title="PowerShell" width="40" style="padding-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/terminal.svg" alt="Terminal" title="Terminal" width="40" style="padding-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40" style="padding-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg" alt="Intune" title="Intune" width="40" style="padding-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg" alt="Azure" title="Azure" width="40" style="padding-right:10px;"/>
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" width="40" style="padding-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365-admin-center.svg" alt="Microsoft Admin" title="Microsoft Admin" width="40" style="padding-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg" alt="Microsoft Exchange" title="Microsoft Exchange" width="40" style="padding-right:10px;"/>
-  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-defender.svg" alt="Microsoft Defender" title="Microsoft Defender" width="40" style="padding-right:10px;"/>
+<p align="left" style="display:flex; flex-wrap:wrap; gap:15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" title="PowerShell" width="40"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/terminal.svg" alt="Terminal" title="Terminal" width="40"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg" alt="Intune" title="Intune" width="40"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg" alt="Azure" title="Azure" width="40"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" width="40"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365-admin-center.svg" alt="Microsoft Admin" title="Microsoft Admin" width="40"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg" alt="Microsoft Exchange" title="Microsoft Exchange" width="40"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-defender.svg" alt="Microsoft Defender" title="Microsoft Defender" width="40"/>
 </p>
 
 ### 📊 Statistics
