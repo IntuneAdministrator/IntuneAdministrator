@@ -35,7 +35,7 @@ Show-Introduction
 
 ### 🤖 Scripting Languages & Technologies
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 25px; align-items: center; margin-bottom: 20px;">
 
   <!-- PowerShell -->
   <a href="https://docs.microsoft.com/powershell/" target="_blank">
