@@ -35,43 +35,111 @@ Show-Introduction
 
 ### 🤖 Scripting Languages & Technologies
 
-<p>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+
+  <!-- PowerShell -->
   <a href="https://docs.microsoft.com/powershell/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" title="PowerShell" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
+  <!-- Terminal -->
   <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank">
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/terminal.svg" alt="Terminal" title="Terminal" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
+  <!-- Visual Studio Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
+  <!-- Intune -->
   <a href="https://learn.microsoft.com/mem/intune/" target="_blank">
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg" alt="Intune" title="Intune" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
+  <!-- Azure -->
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg" alt="Azure" title="Azure" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
+  <!-- Microsoft 365 -->
   <a href="https://www.microsoft.com/microsoft-365" target="_blank">
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
+  <!-- Microsoft Admin -->
   <a href="https://admin.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365-admin-center.svg" alt="Microsoft Admin" title="Microsoft Admin" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
+  <!-- Microsoft Exchange -->
   <a href="https://exchange.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg" alt="Microsoft Exchange" title="Microsoft Exchange" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
 
+  <!-- Microsoft Defender -->
   <a href="https://www.microsoft.com/security/business/microsoft-defender" target="_blank">
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-defender.svg" alt="Microsoft Defender" title="Microsoft Defender" width="40"/>
   </a>
-</p>
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mysql.svg" alt="MySQL" title="MySQL" width="40"/>
+  </a>
+
+  <!-- PHP -->
+  <a href="https://www.php.net/" target="_blank">
+    <picture>
+      <source srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/php.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/php-light.svg" alt="PHP" title="PHP" width="40">
+    </picture>
+  </a>
+
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/python.svg" alt="Python" title="Python" width="40"/>
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <picture>
+      <source srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript-light.svg" alt="JavaScript" title="JavaScript" width="40">
+    </picture>
+  </a>
+
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <picture>
+      <source srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/css-light.svg" alt="CSS" title="CSS" width="40">
+    </picture>
+  </a>
+
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <picture>
+      <source srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html.svg" media="(prefers-color-scheme: dark)">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/html-light.svg" alt="HTML" title="HTML" width="40">
+    </picture>
+  </a>
+
+  <!-- HP -->
+  <a href="https://www.hp.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hp.svg" alt="HP" title="HP" width="40"/>
+  </a>
+
+  <!-- iDRAC -->
+  <a href="https://www.dell.com/support/home/en-us/product-support/product/idrac7-lifecycle-controller/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/idrac.svg" alt="iDRAC" title="iDRAC" width="40"/>
+  </a>
+
+  <!-- iLO -->
+  <a href="https://www.hpe.com/us/en/servers/integrated-lights-out.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ilo.svg" alt="iLO" title="iLO" width="40"/>
+  </a>
+
+</div>
 
 ### 📊 Statistics
 
