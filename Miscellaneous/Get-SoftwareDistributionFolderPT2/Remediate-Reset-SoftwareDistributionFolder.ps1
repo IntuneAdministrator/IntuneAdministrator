@@ -1,1 +1,0 @@
-Remove-Item -Path C:\Windows\SoftwareDistribution.old
