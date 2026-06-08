@@ -52,6 +52,10 @@ Show-Introduction
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg" alt="Azure" title="Azure" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://msicons.com/icons/entra/Microsoft Entra ID color icon.svg" alt="Azure" title="Azure" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.microsoft.com/microsoft-365" target="_blank">
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
