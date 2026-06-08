@@ -174,20 +174,16 @@ Show-Introduction
 
 ### 📊 Statistics
 
-<a href="https://github.com/IntuneAdministrator">
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=IntuneAdministrator&show_icons=true&theme=dark&rank_icon=github" 
   />
-</a>
 
-<a href="https://github.com/IntuneAdministrator">
   <img 
-    align="left" 
-    alt="All Technologies" 
+    alt="Top Languages" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntuneAdministrator&theme=dark&layout=compact&custom_title=All%20Technologies&langs_count=10" 
   />
-</a>
+</p>
