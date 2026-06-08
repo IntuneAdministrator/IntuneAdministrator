@@ -50,27 +50,27 @@ Show-Introduction
 
 <p>
   <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg" alt="Azure" title="Azure" width="40"/>
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.microsoft.com/microsoft-365" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365.svg" alt="Microsoft 365" title="Microsoft 365" width="40"/>
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://admin.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365-admin-center.svg" alt="Microsoft Admin" title="Microsoft Admin" width="40"/>
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365-admin-center.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://exchange.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg" alt="Microsoft Exchange" title="Microsoft Exchange" width="40"/>
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://azure.microsoft.com/en-us/pricing/" target="_blank">
-    <img src="https://msicons.com/icons/general/00004-icon-service-Cost-Management-and-Billing.svg" alt="Cost Management" title="Cost Management & Billing" width="40"/>
+    <img src="https://msicons.com/icons/general/00004-icon-service-Cost-Management-and-Billing.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.microsoft.com/windows-365" target="_blank">
-    <img src="https://msicons.com/icons/Windows-365/Windows365-logo.svg" alt="Windows 365" title="Windows 365" width="40"/>
+    <img src="https://msicons.com/icons/Windows-365/Windows365-logo.svg" width="40"/>
   </a>
 </p>
 
@@ -79,27 +79,31 @@ Show-Introduction
 
 <p>
   <a href="https://www.microsoft.com/security/business/microsoft-defender" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-defender.svg" alt="Microsoft Defender" title="Microsoft Defender" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-defender.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://learn.microsoft.com/azure/defender-for-cloud/" target="_blank">
-    <img src="https://msicons.com/icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg" alt="Defender for Cloud" title="Microsoft Defender for Cloud" width="40"/>
+    <img src="https://msicons.com/icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.microsoft.com/security/business/microsoft-entra" target="_blank">
-    <img src="https://msicons.com/icons/entra/Microsoft Entra Product Family.svg" alt="Microsoft Entra" title="Microsoft Entra" width="40"/>
+    <img src="https://msicons.com/icons/entra/Microsoft Entra Product Family.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://learn.microsoft.com/azure/active-directory/conditional-access/" target="_blank">
-    <img src="https://msicons.com/icons/security/10233-icon-service-Conditional-Access.svg" alt="Conditional Access" title="Conditional Access" width="40"/>
+    <img src="https://msicons.com/icons/security/10233-icon-service-Conditional-Access.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://learn.microsoft.com/azure/active-directory/authentication/concept-mfa-howitworks" target="_blank">
-    <img src="https://msicons.com/icons/security/03344-icon-service-Multifactor-Authentication.svg" alt="MFA" title="Multifactor Authentication" width="40"/>
+    <img src="https://msicons.com/icons/security/03344-icon-service-Multifactor-Authentication.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://learn.microsoft.com/entra/global-secure-access/" target="_blank">
-    <img src="https://msicons.com/icons/identity/03309-icon-service-Entra-Global-Secure-Access.svg" alt="Global Secure Access" title="Global Secure Access" width="40"/>
+    <img src="https://msicons.com/icons/identity/03309-icon-service-Entra-Global-Secure-Access.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://learn.microsoft.com/entra/identity/role-based-access-control/" target="_blank">
+    <img src="https://msicons.com/icons/identity/10340-icon-service-Entra-Identity-Roles-and-Administrators.svg" width="40"/>
   </a>
 </p>
 
@@ -108,11 +112,35 @@ Show-Introduction
 
 <p>
   <a href="https://learn.microsoft.com/mem/intune/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg" alt="Intune" title="Intune" width="40"/>
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://learn.microsoft.com/mem/intune/enrollment/" target="_blank">
-    <img src="https://msicons.com/icons/intune/10337-icon-service-Device-Enrollment.svg" alt="Device Enrollment" title="Device Enrollment" width="40"/>
+    <img src="https://msicons.com/icons/intune/10337-icon-service-Device-Enrollment.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://learn.microsoft.com/mem/intune/fundamentals/what-is-device-management" target="_blank">
+    <img src="https://msicons.com/icons/intune/10332-icon-service-Devices.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://learn.microsoft.com/mem/intune/protect/device-compliance-get-started" target="_blank">
+    <img src="https://msicons.com/icons/intune/10333-icon-service-Device-Compliance.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://learn.microsoft.com/mem/intune/protect/windows-update-for-business-configure" target="_blank">
+    <img src="https://msicons.com/icons/intune/10335-icon-service-Software-Updates.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://learn.microsoft.com/mem/intune/protect/security-baselines" target="_blank">
+    <img src="https://msicons.com/icons/intune/10336-icon-service-Security-Baselines.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://learn.microsoft.com/mem/intune/configuration/device-profiles" target="_blank">
+    <img src="https://msicons.com/icons/intune/10338-icon-service-Device-Configuration.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://learn.microsoft.com/mem/intune/apps/apps-overview" target="_blank">
+    <img src="https://msicons.com/icons/intune/10331-icon-service-Client-Apps.svg" width="40"/>
   </a>
 </p>
 
