@@ -30,6 +30,7 @@ function Show-Introduction {
 
 # Run the introduction
 Show-Introduction
+
 ```
 
 ### 🤖 Scripting Languages & Technologies
@@ -75,21 +76,19 @@ Show-Introduction
 ### 📊 Statistics
 
 <a href="https://github.com/IntuneAdministrator">
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="./profile/stats.svg"
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=IntuneAdministrator&show_icons=true&theme=dark&rank_icon=github" 
   />
 </a>
 
 <a href="https://github.com/IntuneAdministrator">
-  <img
-    align="left"
-    alt="Top Languages"
-    height="200"
-    src="./profile/top-langs.svg"
+  <img 
+    align="left" 
+    alt="All Technologies" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IntuneAdministrator&theme=dark&layout=compact&custom_title=All%20Technologies&langs_count=10" 
   />
 </a>
-
-<br clear="both"/>
