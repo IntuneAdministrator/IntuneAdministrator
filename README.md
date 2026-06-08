@@ -37,15 +37,11 @@ Show-Introduction
 
 <p>
   <a href="https://docs.microsoft.com/powershell/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" title="PowerShell" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powershell.svg" alt="PowerShell" title="PowerShell" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/terminal.svg" alt="Terminal" title="Terminal" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/visual-studio-code.svg" alt="Visual Studio Code" title="Visual Studio Code" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/windows-terminal.svg" alt="Terminal" title="Terminal" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://learn.microsoft.com/mem/intune/" target="_blank">
