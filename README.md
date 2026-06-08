@@ -33,22 +33,22 @@ Show-Introduction
 
 ```
 
-### 🤖 Scripting Languages & Technologies
+### 🤖 Scripting & Core Tools
 
 <p>
-  <!-- Top Row (8) -->
   <a href="https://docs.microsoft.com/powershell/" target="_blank">
     <img src="https://msicons.com/icons/general/10825-icon-service-Powershell.svg" alt="PowerShell" title="PowerShell" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/windows-terminal.svg" alt="Terminal" title="Terminal" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>
+</p>
 
-  <a href="https://learn.microsoft.com/mem/intune/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg" alt="Intune" title="Intune" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
+### ☁️ Cloud & Infrastructure
+
+<p>
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg" alt="Azure" title="Azure" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -65,23 +65,29 @@ Show-Introduction
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg" alt="Microsoft Exchange" title="Microsoft Exchange" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.microsoft.com/security/business/microsoft-defender" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-defender.svg" alt="Microsoft Defender" title="Microsoft Defender" width="40"/>
-  </a>
-</p>
-
-<p>
-  <!-- Bottom Row (8) -->
-  <a href="https://www.microsoft.com/security/business/microsoft-entra" target="_blank">
-    <img src="https://msicons.com/icons/entra/Microsoft Entra Product Family.svg" alt="Microsoft Entra" title="Microsoft Entra" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://azure.microsoft.com/en-us/pricing/" target="_blank">
     <img src="https://msicons.com/icons/general/00004-icon-service-Cost-Management-and-Billing.svg" alt="Cost Management" title="Cost Management & Billing" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://learn.microsoft.com/entra/global-secure-access/" target="_blank">
-    <img src="https://msicons.com/icons/identity/03309-icon-service-Entra-Global-Secure-Access.svg" alt="Global Secure Access" title="Global Secure Access" width="40"/>
+  <a href="https://www.microsoft.com/windows-365" target="_blank">
+    <img src="https://msicons.com/icons/Windows-365/Windows365-logo.svg" alt="Windows 365" title="Windows 365" width="40"/>
+  </a>
+</p>
+
+
+### 🔐 Security & Identity
+
+<p>
+  <a href="https://www.microsoft.com/security/business/microsoft-defender" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-defender.svg" alt="Microsoft Defender" title="Microsoft Defender" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://learn.microsoft.com/azure/defender-for-cloud/" target="_blank">
+    <img src="https://msicons.com/icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg" alt="Defender for Cloud" title="Microsoft Defender for Cloud" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.microsoft.com/security/business/microsoft-entra" target="_blank">
+    <img src="https://msicons.com/icons/entra/Microsoft Entra Product Family.svg" alt="Microsoft Entra" title="Microsoft Entra" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://learn.microsoft.com/azure/active-directory/conditional-access/" target="_blank">
@@ -92,12 +98,17 @@ Show-Introduction
     <img src="https://msicons.com/icons/security/03344-icon-service-Multifactor-Authentication.svg" alt="MFA" title="Multifactor Authentication" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://learn.microsoft.com/azure/defender-for-cloud/" target="_blank">
-    <img src="https://msicons.com/icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg" alt="Defender for Cloud" title="Microsoft Defender for Cloud" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/entra/global-secure-access/" target="_blank">
+    <img src="https://msicons.com/icons/identity/03309-icon-service-Entra-Global-Secure-Access.svg" alt="Global Secure Access" title="Global Secure Access" width="40"/>
+  </a>
+</p>
 
-  <a href="https://www.microsoft.com/windows-365" target="_blank">
-    <img src="https://msicons.com/icons/Windows-365/Windows365-logo.svg" alt="Windows 365" title="Windows 365" width="40"/>
+
+### 📱 Device Management
+
+<p>
+  <a href="https://learn.microsoft.com/mem/intune/" target="_blank">
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg" alt="Intune" title="Intune" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://learn.microsoft.com/mem/intune/enrollment/" target="_blank">
