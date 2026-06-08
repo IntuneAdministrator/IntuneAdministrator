@@ -37,7 +37,7 @@ Show-Introduction
 
 <p>
   <a href="https://docs.microsoft.com/powershell/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powershell.svg" alt="PowerShell" title="PowerShell" width="40"/>
+    <img src="https://msicons.com/icons/general/10825-icon-service-Powershell.svg" alt="PowerShell" title="PowerShell" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank">
@@ -50,10 +50,6 @@ Show-Introduction
 
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-azure.svg" alt="Azure" title="Azure" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://msicons.com/icons/entra/Microsoft Entra ID color icon.svg" alt="Azure" title="Azure" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.microsoft.com/microsoft-365" target="_blank">
