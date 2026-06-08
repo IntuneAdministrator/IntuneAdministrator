@@ -69,7 +69,7 @@ Show-Introduction
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.microsoft.com/security/business/microsoft-defender" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-defender.svg" alt="Microsoft Defender" title="Microsoft Defender" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-defender.svg" alt="Microsoft Defender" title="Microsoft Defender" width="40"/>
   </a>
 </p>
 
