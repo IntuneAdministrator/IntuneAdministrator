@@ -50,12 +50,8 @@ Show-Introduction
     <img src="https://msicons.com/icons/general/10825-icon-service-Powershell.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank">
+  <a href="https://learn.microsoft.com/windows/terminal/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/windows-terminal.svg" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://en.wikipedia.org/wiki/Unix_shell" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell-light.svg" width="40"/>
   </a>
 </p>
 
