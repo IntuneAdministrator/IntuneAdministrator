@@ -188,6 +188,6 @@ Show-Introduction
     align="left" 
     alt="All Technologies" 
     height="200" 
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=IntuneAdministrator&layout=compact&langs_count=10&theme=dark" 
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=IntuneAdministrator&layout=compact&langs_count=11&theme=dark" 
   />
 </a>
