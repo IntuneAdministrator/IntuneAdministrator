@@ -83,10 +83,6 @@ Show-Introduction
     <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-defender.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://learn.microsoft.com/azure/defender-for-cloud/" target="_blank">
-    <img src="https://msicons.com/icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://www.microsoft.com/microsoft-purview" target="_blank">
     <img src="https://msicons.com/icons/fabric/purview_color.svg" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
