@@ -45,96 +45,64 @@ Show-Introduction
 
 ### 🤖 Scripting & Core Tools
 
-<table>
-<tr>
-<td align="center">
-  <a href="https://learn.microsoft.com/powershell/" target="_blank">
-    <img src="https://msicons.com/icons/general/10825-icon-service-Powershell.svg" width="40"/><br>
-    PowerShell
-  </a>
-</td>
+<p>
+  <a href="https://docs.microsoft.com/powershell/" target="_blank">
+    <img src="https://msicons.com/icons/general/10825-icon-service-Powershell.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
   <a href="https://learn.microsoft.com/windows/terminal/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/windows-terminal.svg" width="40"/><br>
-    Windows Terminal
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/windows-terminal.svg" width="40"/>
   </a>
-</td>
-</tr>
-</table>
+</p>
 
 ## 🛠️ Tools & Technologies
 
-<table>
-<tr>
-<td align="center">
+<p align="left">
+
+  <!-- Tenant & Platform -->
   <a href="https://admin.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365-admin-center.svg" width="40"/><br>
-    Microsoft 365
-  </a>
-</td>
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365-admin-center.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
+  <!-- Identity -->
   <a href="https://www.microsoft.com/security/business/microsoft-entra" target="_blank">
-    <img src="https://msicons.com/icons/entra/Microsoft Entra Product Family.svg" width="40"/><br>
-    Entra ID
-  </a>
-</td>
+    <img src="https://msicons.com/icons/entra/Microsoft Entra Product Family.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
   <a href="https://learn.microsoft.com/entra/global-secure-access/" target="_blank">
-    <img src="https://msicons.com/icons/identity/03309-icon-service-Entra-Global-Secure-Access.svg" width="40"/><br>
-    Global Secure Access
-  </a>
-</td>
+    <img src="https://msicons.com/icons/identity/03309-icon-service-Entra-Global-Secure-Access.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
+  <!-- Endpoint Management -->
   <a href="https://learn.microsoft.com/mem/intune/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg" width="40"/><br>
-    Intune
-  </a>
-</td>
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
+  <!-- Security -->
   <a href="https://www.microsoft.com/security/business/microsoft-defender" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-defender.svg" width="40"/><br>
-    Defender
-  </a>
-</td>
-</tr>
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-defender.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<tr>
-<td align="center">
   <a href="https://learn.microsoft.com/azure/defender-for-cloud/" target="_blank">
-    <img src="https://msicons.com/icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg" width="40"/><br>
-    Defender for Cloud
-  </a>
-</td>
+    <img src="https://msicons.com/icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
   <a href="https://www.microsoft.com/microsoft-purview" target="_blank">
-    <img src="https://msicons.com/icons/fabric/purview_color.svg" width="40"/><br>
-    Purview
-  </a>
-</td>
+    <img src="https://msicons.com/icons/fabric/purview_color.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
+  <!-- Productivity -->
   <a href="https://exchange.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg" width="40"/><br>
-    Exchange Online
-  </a>
-</td>
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<td align="center">
+  <!-- Cloud PC -->
   <a href="https://www.microsoft.com/windows-365" target="_blank">
-    <img src="https://msicons.com/icons/Windows-365/Windows365-logo.svg" width="40"/><br>
-    Windows 365
+    <img src="https://msicons.com/icons/Windows-365/Windows365-logo.svg" width="40"/>
   </a>
-</td>
 
-<td></td>
-</tr>
-</table>
+</p>
+
 ### 📊 Statistics
 
 <a href="https://github.com/IntuneAdministrator">
