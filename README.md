@@ -43,6 +43,18 @@ Show-Introduction
 
 ```
 
+### 🤖 Scripting & Core Tools
+
+<p>
+  <a href="https://docs.microsoft.com/powershell/" target="_blank">
+    <img src="https://msicons.com/icons/general/10825-icon-service-Powershell.svg" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://learn.microsoft.com/windows/terminal/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/windows-terminal.svg" width="40"/>
+  </a>
+</p>
+
 ## 🛠️ Tools & Technologies
 
 <p align="left">
