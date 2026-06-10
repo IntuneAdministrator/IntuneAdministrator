@@ -45,64 +45,96 @@ Show-Introduction
 
 ### 🤖 Scripting & Core Tools
 
-<p>
-  <a href="https://docs.microsoft.com/powershell/" target="_blank">
-    <img src="https://msicons.com/icons/general/10825-icon-service-Powershell.svg" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://learn.microsoft.com/windows/terminal/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/windows-terminal.svg" width="40"/>
+<table>
+<tr>
+<td align="center">
+  <a href="https://learn.microsoft.com/powershell/" target="_blank">
+    <img src="https://msicons.com/icons/general/10825-icon-service-Powershell.svg" width="40"/><br>
+    PowerShell
   </a>
-</p>
+</td>
+
+<td align="center">
+  <a href="https://learn.microsoft.com/windows/terminal/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/windows-terminal.svg" width="40"/><br>
+    Windows Terminal
+  </a>
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tools & Technologies
 
-<p align="left">
-
-  <!-- Tenant & Platform -->
+<table>
+<tr>
+<td align="center">
   <a href="https://admin.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365-admin-center.svg" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Identity -->
-  <a href="https://www.microsoft.com/security/business/microsoft-entra" target="_blank">
-    <img src="https://msicons.com/icons/entra/Microsoft Entra Product Family.svg" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://learn.microsoft.com/entra/global-secure-access/" target="_blank">
-    <img src="https://msicons.com/icons/identity/03309-icon-service-Entra-Global-Secure-Access.svg" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Endpoint Management -->
-  <a href="https://learn.microsoft.com/mem/intune/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Security -->
-  <a href="https://www.microsoft.com/security/business/microsoft-defender" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-defender.svg" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://learn.microsoft.com/azure/defender-for-cloud/" target="_blank">
-    <img src="https://msicons.com/icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.microsoft.com/microsoft-purview" target="_blank">
-    <img src="https://msicons.com/icons/fabric/purview_color.svg" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Productivity -->
-  <a href="https://exchange.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Cloud PC -->
-  <a href="https://www.microsoft.com/windows-365" target="_blank">
-    <img src="https://msicons.com/icons/Windows-365/Windows365-logo.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-365-admin-center.svg" width="40"/><br>
+    Microsoft 365
   </a>
+</td>
 
-</p>
+<td align="center">
+  <a href="https://www.microsoft.com/security/business/microsoft-entra" target="_blank">
+    <img src="https://msicons.com/icons/entra/Microsoft Entra Product Family.svg" width="40"/><br>
+    Entra ID
+  </a>
+</td>
 
+<td align="center">
+  <a href="https://learn.microsoft.com/entra/global-secure-access/" target="_blank">
+    <img src="https://msicons.com/icons/identity/03309-icon-service-Entra-Global-Secure-Access.svg" width="40"/><br>
+    Global Secure Access
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://learn.microsoft.com/mem/intune/" target="_blank">
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-intune.svg" width="40"/><br>
+    Intune
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://www.microsoft.com/security/business/microsoft-defender" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-defender.svg" width="40"/><br>
+    Defender
+  </a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="https://learn.microsoft.com/azure/defender-for-cloud/" target="_blank">
+    <img src="https://msicons.com/icons/security/10241-icon-service-Microsoft-Defender-for-Cloud.svg" width="40"/><br>
+    Defender for Cloud
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://www.microsoft.com/microsoft-purview" target="_blank">
+    <img src="https://msicons.com/icons/fabric/purview_color.svg" width="40"/><br>
+    Purview
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://exchange.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg" width="40"/><br>
+    Exchange Online
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://www.microsoft.com/windows-365" target="_blank">
+    <img src="https://msicons.com/icons/Windows-365/Windows365-logo.svg" width="40"/><br>
+    Windows 365
+  </a>
+</td>
+
+<td></td>
+</tr>
+</table>
 ### 📊 Statistics
 
 <a href="https://github.com/IntuneAdministrator">
