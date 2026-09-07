@@ -1,10 +1,10 @@
 # Allester Padovani
 
-**Microsoft Intune Engineer | Microsoft 365 | Endpoint and Systems Administration**
+**Microsoft Intune Engineer | Microsoft 365 Administrator | Endpoint Management Engineer | IT Support Engineer | Endpoint Support Engineer**
 
-Microsoft-certified IT professional focused on secure endpoint management, Microsoft cloud administration, Windows systems, and dependable user support. I combine hands-on operations with PowerShell and Microsoft Graph automation to simplify IT and improve service reliability.
+Microsoft-certified IT professional focused on secure endpoint management, Microsoft cloud administration, Windows endpoints, and dependable user support. I combine hands-on operations with PowerShell and Microsoft Graph automation to simplify IT and improve service reliability.
 
-[LinkedIn](https://www.linkedin.com/in/allester-padovani/) · [GitHub](https://github.com/IntuneAdministrator) · [Endpoint Tech Blog](https://endpointtechblog.com/)
+[Portfolio](https://intuneadministrator.github.io/) · [LinkedIn](https://www.linkedin.com/in/allester-padovani/) · [GitHub](https://github.com/IntuneAdministrator) · [Endpoint Tech Blog](https://endpointtechblog.com/)
 
 ---
 
@@ -12,7 +12,7 @@ Microsoft-certified IT professional focused on secure endpoint management, Micro
 
 Seeking a full-time **in-house / internal IT position** where I can take long-term ownership of users, devices, Microsoft cloud services, security, and day-to-day technology operations.
 
-**Target roles:** Microsoft Intune / Endpoint Administrator · Microsoft 365 Administrator · Systems Administrator · IT Support Engineer · Endpoint Support / EUC Specialist
+**Target roles:** Microsoft Intune Engineer · Endpoint Administrator · Microsoft 365 Administrator · IT Support Engineer · Endpoint Support / EUC Specialist
 
 ---
 
@@ -22,7 +22,7 @@ Seeking a full-time **in-house / internal IT position** where I can take long-te
 |---|---|
 | Endpoint management | Microsoft Intune, Windows Autopilot, Win32 packaging, compliance policies, remediations, application deployment |
 | Microsoft 365 and identity | Microsoft 365 administration, Exchange Online, Teams, SharePoint, OneDrive, Entra ID, MFA, Conditional Access, PIM |
-| Systems administration | Windows 10/11, on-premises Active Directory, Group Policy, device lifecycle, account administration |
+| Windows endpoint administration | Windows 10/11, on-premises Active Directory, Group Policy, device lifecycle, account administration |
 | IT support | End-user support, hardware and software troubleshooting, onboarding/offboarding, remote support, technical documentation |
 | Security | Microsoft Defender, BitLocker, endpoint security, security baselines, identity and access hygiene |
 | Automation | PowerShell, Microsoft Graph, operational scripting, reporting, remediation, and admin GUI packaging |
@@ -51,16 +51,14 @@ Seeking a full-time **in-house / internal IT position** where I can take long-te
 
 ## Selected technical work
 
-Engineering kits are maintained in private repositories. Selected areas include:
+Explore selected work through the [professional portfolio](https://intuneadministrator.github.io/pages/projects.html) and the [project download library](https://intuneadministrator.github.io/pages/downloads.html).
 
 | Project | Highlights |
 |---|---|
-| Microsoft Intune Engineering | Autopilot, LAPS, Win32 applications, remediations, PIM, compliance, assignments, and printer tooling |
-| Microsoft 365 Support | Entra ID, Exchange Online, Groups, licensing, Teams, security, and tenant administration |
-| Active Directory Engineering | Health reporting, event review, group auditing, cleanup, password operations, and runbook automation |
-| Intune Operations Library | Policies, proactive remediations, ADMX, platform scripts, notifications, and Windows/macOS application content |
-
-Additional work includes endpoint management scripts, an IT support toolkit, and static web projects.
+| [Intune Endpoint Management](https://github.com/IntuneAdministrator/ITSupportEndpointManagement/tree/main/IntuneEndpointManagement) | Intune administration, Autopilot, Win32 packaging, compliance, remediations, macOS, and Dell management |
+| [IT Support Specialist Toolkit](https://github.com/IntuneAdministrator/ITSupportEndpointManagement/tree/main/ITSupportSpecialistToolkit) | Windows diagnostics, repair workflows, Microsoft 365 reporting, and technical support resources |
+| [Website Builder Portfolio](https://github.com/IntuneAdministrator/ITSupportEndpointManagement/tree/main/WebsiteBuilderPortfolio) | Responsive websites built with HTML, CSS, and JavaScript |
+| Microsoft 365 and Active Directory | Entra ID, Exchange Online, Groups, licensing, security, health reporting, cleanup, and automation |
 
 ---
 
